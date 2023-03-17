@@ -1,4 +1,4 @@
-<%@ page import='etu2063.framework.servlet.*' %>
+<%@ page import='etu001997.framework.servlet.*' %>
     <% String url=(String) request.getAttribute("url"); %>
         <!DOCTYPE html>
         <html>
